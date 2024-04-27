@@ -1,7 +1,6 @@
- <h1>Hola 👋, Bienvenido a mi perfil</h1>
- <p>
-    👨‍💻 Soy un apasionado desarrollador de software que utiliza tecnologías modernas para crear experiencias digitales cautivadoras. Las tecnologias que utilizo son .NET y .NET Core para la construcción de robustas aplicaciones web, mientras que HTML, CSS y JavaScript son mis herramientas indispensables para dar vida a diseños elegantes y funcionales.
-  </p> 
+<div align="center">
+<img src="https://github.com/SLoranca/SLoranca/blob/main/banner-profile-4.png"/>
+</div>
 
 <hr>
 
