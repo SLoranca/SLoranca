@@ -1,8 +1,6 @@
 # <div align="center">
 <img src="https://github.com/SLoranca/SLoranca/blob/main/banner-profile-5.png"/>
 </div>
-<hr>
-<h3>TECNOLOGÍAS</h3>
 <div id="badges">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="CSharp"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
@@ -13,6 +11,11 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
+
+<hr>
+<p text-align="justify">
+Soy un apasionado desarrollador con experiencia en diversas tecnologías. Mi enfoque principal se centra en la creación de soluciones utilizando C# y el framework .NET para garantizar la robustez y eficiencia en mis proyectos. Además, me especializo en el diseño de interfaces atractivas y funcionales empleando HTML, CSS y JavaScript, con el objetivo de brindar experiencias de usuario excepcionales.
+</p>
 
 <h3>SOBRE MÍ</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
