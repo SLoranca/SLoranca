@@ -9,7 +9,11 @@
 <hr>
 
 👨‍💻 Acerca de mi
+- ✉️ Puedes contactarme por: sebastianloranca1493@gmail.com
 
+<hr>
+
+🛠️ Habilidades técnicas
 - 🕒 Cuento con 5 años de experiencia en las siguientes tecnologías:
 -  C# con .NET Framework y .NET Core (Backend)
 -  HTML, CSS, Javascript (Frontend)
@@ -17,5 +21,6 @@
 -  SQL SERVER
 -  PostgreSQL
 -  MySQL
-- ✉️ Puedes contactarme por: sebastianloranca1493@gmail.com
 - 📚 Actualmente estoy aprendiendo Angular y Docker
+
+
