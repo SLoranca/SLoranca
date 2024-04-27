@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **supunnanayakkara01@gmail.com**
 
-- ⚡ Me gustan los video juegos, (HALO, GEAR OF WARS, LEFT FOR DEATH)
+- ⚡ Me gustan los video juegos, (Halo, Gears of War, Left 4 Dead)
 
 <h3>PROYECTOS</h3>
 <br>
