@@ -3,6 +3,6 @@
   <h1 align="center">Hola 👋</h1>
 </div>
 
-<div style="background-color:#201E1E">
+<div style="background: green;">
   <h1 align="center">DESARROLLADOR DE SOFTWARE</h1>
 </div>
