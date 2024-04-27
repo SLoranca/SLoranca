@@ -15,17 +15,13 @@
 </div>
 
 <h3>SOBRE MÍ</h3>
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
 - 🔭 Cuento con 5 años de experiencia en desarrollo de aplicaciones web
 
 - 🌱 Actualmente estoy aprendiendo Agular y Docker
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
-
 - 💬 Preguntame sobre **C#, JavaScript**
-
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
 
 - ⚡ Me gustan los video juegos, (Halo, Gears of War, Left 4 Dead)
 
