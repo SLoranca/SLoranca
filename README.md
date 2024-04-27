@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/SLoranca/SLoranca/blob/main/banner-profile-4.png"/>
+<img src="https://github.com/SLoranca/SLoranca/blob/main/banner-profile-5.png"/>
 </div>
 
 <hr>
