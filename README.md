@@ -1,8 +1,4 @@
 
 <div align="center">
-  <h1 align="center">Hola 👋</h1>
-</div>
-
-<div style="background: green;">
-  <h1 align="center">DESARROLLADOR DE SOFTWARE</h1>
+  <h1 align="center">Hola 👋, Soy Sebastian Loranca</h1>
 </div>
