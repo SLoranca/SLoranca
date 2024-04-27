@@ -14,18 +14,19 @@
    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
-SOBRE MI
-- ✉️ Puedes contactarme por: sebastianloranca1493@gmail.com
+<h3>SOBRE MÍ</h3>
 
 
-🛠️ Habilidades técnicas
-- 🕒 Cuento con 5 años de experiencia en las siguientes tecnologías:
--  C# con .NET Framework y .NET Core (Backend)
--  HTML, CSS, Javascript (Frontend)
-- 🧠 Tambien tengo conocimiento en el manejo de distintas bases de datos como:
--  SQL SERVER
--  PostgreSQL
--  MySQL
-- 📚 Actualmente estoy aprendiendo Angular y Docker
+<h3>PROYECTOS</h3>
 
 
+
+<hr>
+<div align="center">
+<span align="center">
+   contactarme por:
+</span>
+   sebastianloranca1493@gmail.com
+  <br/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" align="center"/>
+</div>
