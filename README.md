@@ -26,8 +26,6 @@ Soy un apasionado desarrollador con experiencia en diversas tecnologías. Mi enf
 
 - 💬 Preguntame sobre **C#, JavaScript**
 
-- ⚡ Me gustan los video juegos, (Halo, Gears of War, Left 4 Dead)
-
 <h3>PROYECTOS</h3>
 <br>
 <table>
