@@ -34,7 +34,7 @@ Soy un apasionado desarrollador con experiencia en diversas tecnologías. Mi enf
       <p>SISTEMA DE AUTENTICACIÓN</p>
     </td>
     <td align="center">
-     <img src="https://github.com/SLoranca/SISTEMA-DE-AUTENTICACION/blob/master/SAAUR-Login.png"
+     <img src="https://github.com/SLoranca/SLoranca/blob/main/SAAUR.png"
              height="120"
              />
     </td>
