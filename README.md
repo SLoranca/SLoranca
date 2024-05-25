@@ -64,7 +64,7 @@ Soy un apasionado desarrollador con experiencia en diversas tecnologías. Mi enf
       <p>WEB SCRAPING</p>
     </td>
     <td align="center">
-     <img src="https://github.com/SLoranca/SLoranca/blob/main/SCRAPING.png"
+     <img src="https://github.com/SLoranca/SLoranca/blob/main/SCRAPING%202.png"
              height="120"
              />
     </td>
