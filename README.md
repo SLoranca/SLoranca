@@ -36,7 +36,7 @@
     <td align="center">
       <p>SISTEMA DE AUTENTICACIÓN</p>
       <a href="#">
-        <img src="https://img.shields.io/badge/CÓDIGO-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/>  
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-FEAA2D?style=for-the-badge&logo=github&logoColor=white"/>  
       </a>
     </td>
     <td align="center">
@@ -49,7 +49,7 @@
     <td align="center">
       <p>GEFORMS</p>
       <a href="#">
-        <img src="https://img.shields.io/badge/CÓDIGO-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/>  
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-FEAA2D?style=for-the-badge&logo=github&logoColor=white"/>  
       </a>
     </td>
     <td align="center">
@@ -62,7 +62,7 @@
     <td align="center">
       <p>REGISTRO EN LINEA</p>
       <a href="#">
-        <img src="https://img.shields.io/badge/CÓDIGO-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/>  
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-FEAA2D?style=for-the-badge&logo=github&logoColor=white"/>  
       </a>
     </td>
     <td align="center">
@@ -75,7 +75,7 @@
     <td align="center">
       <p>WEB SCRAPING</p>
       <a href="#">
-        <img src="https://img.shields.io/badge/CÓDIGO-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/>  
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-FEAA2D?style=for-the-badge&logo=github&logoColor=white"/>  
       </a>
     </td>
     <td align="center">
