@@ -12,11 +12,8 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 <hr>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<h3 style="font-style:oblique">
-  "Una idea nueva surge de repente y de forma bastante intuitiva, pero la intuición no es más que el resultado de una experiencia intelectual anterior"- Albert Einstein
-</h3>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img align="right" alt="Coding" width="230" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="center"  width="600" src="https://github-readme-stats.vercel.app/api?username=sloranca&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 <h3>Sobre mi...</h3>
 <div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">const</span> <span class="pl-s1">me</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
   <span class="pl-c1">description</span>: <span class="pl-s">"Soy un apasionado desarrollador con experiencia en diversas tecnologías. 
