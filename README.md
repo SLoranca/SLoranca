@@ -74,10 +74,6 @@ Soy un apasionado desarrollador con experiencia en diversas tecnologías. Mi enf
 
 <hr>
 <div align="center">
-<span align="center">
-   contactarme por:
-</span>
-   sebastianloranca1493@gmail.com
-  <br/><br/>
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" align="center"/>
 </div>
