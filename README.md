@@ -35,6 +35,9 @@
   <tr>
     <td align="center">
       <p>SISTEMA DE AUTENTICACIÓN</p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/CODIGO-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/>  
+      </a>
     </td>
     <td align="center">
      <img src="https://github.com/SLoranca/SLoranca/blob/main/SAAUR.png"
@@ -45,6 +48,9 @@
   <tr>
     <td align="center">
       <p>GEFORMS</p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/CODIGO-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/>  
+      </a>
     </td>
     <td align="center">
      <img src="https://github.com/SLoranca/SLoranca/blob/main/GEFORM.png"
@@ -55,6 +61,9 @@
    <tr>
     <td align="center">
       <p>REGISTRO EN LINEA</p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/CODIGO-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/>  
+      </a>
     </td>
     <td align="center">
      <img src="https://github.com/SLoranca/SLoranca/blob/main/REGISTRO-LINEA.png"
@@ -65,6 +74,9 @@
    <tr>
     <td align="center">
       <p>WEB SCRAPING</p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/CODIGO-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/>  
+      </a>
     </td>
     <td align="center">
      <img src="https://github.com/SLoranca/SLoranca/blob/main/SCRAPING%202.png"
