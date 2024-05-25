@@ -31,16 +31,12 @@ Soy un apasionado desarrollador con experiencia en diversas tecnologías. Mi enf
 <table>
   <tr>
     <td align="center">
-      <p>EN CONSTRUCCIÓN</p>
+      <p>SISTEMA DE AUTENTICACIÓN</p>
     </td>
     <td align="center">
-     <img src="https://deutschlands-bester-hacker.de/wp-content/uploads/2022/02/DBH_Logo_2022_new.png"
-             alt="Deutschlands Bester Hacker - Deine Hacking Challenge"
-             title="Deutschlands Bester Hacker - Deine Hacking Challenge"
+     <img src="https://github.com/SLoranca/SISTEMA-DE-AUTENTICACION/blob/master/SAAUR-Login.png"
              height="120"
              />
-        <br />
-        <sub><b>Deutschlands Bester Hacker</b></sub>
     </td>
   </tr>
 </table>
@@ -53,6 +49,6 @@ Soy un apasionado desarrollador con experiencia en diversas tecnologías. Mi enf
    contactarme por:
 </span>
    sebastianloranca1493@gmail.com
-  <br/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" align="center"/>
 </div>
