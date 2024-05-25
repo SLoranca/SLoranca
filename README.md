@@ -35,7 +35,7 @@
   <tr>
     <td align="center">
       <p>SISTEMA DE AUTENTICACIÓN</p>
-      <a href="#">
+      <a href="https://github.com/SLoranca/SISTEMA-DE-AUTENTICACION">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-FEAA2D?style=for-the-badge&logo=github&logoColor=white"/>  
       </a>
     </td>
@@ -48,7 +48,7 @@
   <tr>
     <td align="center">
       <p>GEFORMS</p>
-      <a href="#">
+      <a href="https://github.com/SLoranca/GEFORMS">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-FEAA2D?style=for-the-badge&logo=github&logoColor=white"/>  
       </a>
     </td>
@@ -61,7 +61,7 @@
    <tr>
     <td align="center">
       <p>REGISTRO EN LINEA</p>
-      <a href="#">
+      <a href="https://github.com/SLoranca/REGISTRO-EN-LINEA">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-FEAA2D?style=for-the-badge&logo=github&logoColor=white"/>  
       </a>
     </td>
@@ -74,7 +74,7 @@
    <tr>
     <td align="center">
       <p>WEB SCRAPING</p>
-      <a href="#">
+      <a href="https://github.com/SLoranca/WEB-SCRAPING">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-FEAA2D?style=for-the-badge&logo=github&logoColor=white"/>  
       </a>
     </td>
