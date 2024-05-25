@@ -25,7 +25,7 @@
         <span class="pl-c1">experience</span>: <span class="pl-s">"5 Años"</span><span class="pl-kos">,</span>
         <span class="pl-c1">ask_me</span>: <span class="pl-s">"C#"</span><span class="pl-kos">,</span><span class="pl-s">"Javascript"</span><span class="pl-kos">,</span>
         <span class="pl-c1">learning</span>: <span class="pl-s">"Angular"</span><span class="pl-kos">,</span><span class="pl-s">"Docker"</span>
-        <span class="pl-kos">}</span><span class="pl-kos">,</span>
+        <span class="pl-kos">}</span>
 <span class="pl-kos">}</span></pre>
 </div>
 
