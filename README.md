@@ -49,11 +49,17 @@ Soy un apasionado desarrollador con experiencia en diversas tecnologías. Mi enf
              />
     </td>
   </tr>
+   <tr>
+    <td align="center">
+      <p>REGISTRO EN LINEA</p>
+    </td>
+    <td align="center">
+     <img src="https://github.com/SLoranca/SLoranca/blob/main/REGISTRO-LINEA.png"
+             height="120"
+             />
+    </td>
+  </tr>
 </table>
-
-
-
-
 </div>
 
 <hr>
