@@ -34,15 +34,13 @@ Soy un apasionado desarrollador con experiencia en diversas tecnologías. Mi enf
       <p>EN CONSTRUCCIÓN</p>
     </td>
     <td align="center">
-      <a href="https://deutschlands-bester-hacker.de/" target="_blank">
-        <img src="https://deutschlands-bester-hacker.de/wp-content/uploads/2022/02/DBH_Logo_2022_new.png"
+     <img src="https://deutschlands-bester-hacker.de/wp-content/uploads/2022/02/DBH_Logo_2022_new.png"
              alt="Deutschlands Bester Hacker - Deine Hacking Challenge"
              title="Deutschlands Bester Hacker - Deine Hacking Challenge"
              height="120"
              />
         <br />
         <sub><b>Deutschlands Bester Hacker</b></sub>
-      </a>
     </td>
   </tr>
 </table>
